@@ -1,0 +1,26 @@
+{
+  "open_folder": {
+    "icon": "",
+    "color": "#5ba8d3"
+  },
+  "closed_folder": {
+    "icon": "",
+    "color": "#5ba8d3"
+  },
+  "file": {
+    "icon": "",
+    "color": "#ffffff"
+  },
+  "js": {
+    "icon": "",
+    "color": "87ab69"
+  },
+  "py": {
+    "icon": "",
+    "color": "#e35335"
+  },
+  "json": {
+    "icon": "",
+    "color": "#fdda0d"
+  }
+}
