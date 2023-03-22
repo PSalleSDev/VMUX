@@ -1,0 +1,6 @@
+{
+  "actions": {
+    " Open with Vim": "lvim #",
+    " Remove": "rm -rf #"
+  }
+}
