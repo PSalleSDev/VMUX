@@ -1,6 +1,6 @@
 # Introduction
 
-VMUX - Simple termux "workspace".
+VMUX - Simple termux "workspace/file manager".
 
 This is a CLI to handle files and folders.
 
