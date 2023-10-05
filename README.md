@@ -2,7 +2,7 @@
 
 VMUX - Simple termux "workspace/file manager".
 
-This is a CLI to handle files and folders.
+This is a TUI to handle files and folders.
 
 ### Configurations
 
